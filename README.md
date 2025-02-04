@@ -33,8 +33,6 @@ print(result)
 ✔ **Structured Output** – Ensures high-quality content generation.  
 
 ## **Future Enhancements**  
-- Web search integration  
-- Custom knowledge base  
 - Fine-tuned LLMs for domain-specific research  
-- Speeding up the whole execution process
+- Speeding up the whole execution process (it is quite slow for now)
 
