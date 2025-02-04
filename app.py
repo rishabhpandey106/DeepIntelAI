@@ -151,7 +151,7 @@ def main():
     )
 
     # Sidebar for model choice
-    st.sidebar.title("⚙️ Settings")
+    st.sidebar.title("⚙️ DeepIntel AI")
 
     # Main content
     st.title("🔍 Deep Research Assistant")
